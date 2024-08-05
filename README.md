@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FagaFenix
 - 👀 I’m interested in music, photography, programming, traveling, remote work and so much more
 - 🌱 I’m currently working with JavaScrip, Svelte, NodeJs and Python.
+- ☁️ I'm working as well with AWS, Azure and some GCP
 - 💞️ I’m looking to collaborate on projects where I can learn and practice my skills in the technologies that I'm working on.
 - 📫 How to reach me fagafenix@hotmail.com
 
